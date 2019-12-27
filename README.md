@@ -11,7 +11,7 @@ $ pipenv run python count_gitlogs_days.py log-sample/gitlog-wara
 ```
 複数指定可能です。
 ```
-$ pipenv run python count_gitlogs_days.py `ls log-sample/*`
+$ pipenv run python count_gitlogs_days.py `ls -d log-sample/*`
 ```
 
 ## Output
