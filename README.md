@@ -19,3 +19,5 @@ $ pipenv run python count_gitlogs_days.py `ls log-sample/*`
 ```
 gitlog_dayscnt.csv
 ```
+グラフ表示するとこんな感じ。
+![graph](https://user-images.githubusercontent.com/24839015/71513867-8573d380-28df-11ea-9945-08f9efb20a0d.png)
