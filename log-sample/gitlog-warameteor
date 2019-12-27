@@ -1,0 +1,270 @@
+commit 1a1d507cc7fd75bf2b77872df91717381a9d32ad
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Thu Jan 25 22:56:23 2018 +0900
+
+    U&C追加。Promiseをasync/await化。デバッグ用にbabel-cli追加。
+
+commit 21603896750ecf64efd8fe7a2f1d144a90d49cbf
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Jan 17 19:35:21 2018 +0900
+
+    スクレイピングをcron実行、同期化＋ウェイト実装。
+
+commit 5384274d51f4b1bd5345650e121f42a215815e2f
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Nov 8 04:16:44 2017 +0900
+
+    吉本をスクレイピングするように。
+
+commit b79adc8a08b0abcd1b03792b048f5975b3279203
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Mon Nov 6 20:36:52 2017 +0900
+
+    KPRO別サイト飛ばし対応
+
+commit 80a542067ced8c1d3064ab1819e28f7510c29d85
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Jul 12 20:23:06 2017 +0900
+
+    窓幅変更でPC/モバイルの表示切替が動作するように。
+
+commit 21c8994e0a7109fe24d397de16260b98b35650ef
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Jun 28 21:11:51 2017 +0900
+
+    prop-types分割対応。モバイル対応を促進。
+
+commit a750628b3da4ed5869c42a63e59061eb79b2eeba
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Apr 26 17:57:43 2017 +0900
+
+    Safariでリスト0件にならないように。
+
+commit b913133d396016dab11db67bbee3cbdb470f3d00
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Apr 26 16:35:00 2017 +0900
+
+    神保町花月は終演日時がないことに対応。
+
+commit d2758e93d0e559a507ec6e7bd77a705d30c5529a
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Apr 26 14:57:44 2017 +0900
+
+    削除ボタン
+
+commit d5474228fc3b80b0d5235b1010d75e861462741c
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Sat Apr 22 14:14:41 2017 +0900
+
+    メソッドセキュリティ、Publish/Subscribe対応。入力コンポーネントちっちゃい問題の対応は解除。Chromeのレスポンシブモードが行けてなかっただけかも？？
+
+commit 1a359a10b5180c17f903ca4dde1a4266dc0429d3
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Fri Apr 21 19:10:16 2017 +0900
+
+    reactバージョンを更新
+
+commit 080b84dc94b492d64360d7a62224069ef22599b2
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Fri Apr 21 18:24:09 2017 +0900
+
+    スマホ対応中
+
+commit db08ea3e8e2c82cde0d69c2a963633e0136b9911
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Fri Apr 21 15:05:48 2017 +0900
+
+    scss化。微調整。
+
+commit 953303a08d3c75ae34e89c8c35879f53fe7b0087
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Fri Apr 21 11:41:33 2017 +0900
+
+    ライブ名をリンク化、期間絞込追加。PC用レイアウト切り出し。
+
+commit 27a6e3317e9818021da3d5a9a63c4f1527375f89
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Apr 19 20:12:23 2017 +0900
+
+    render〜()を整備
+
+commit 32d27aa0beb94aa48babb449595e4f7ca3788f7a
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Apr 19 19:15:07 2017 +0900
+
+    条件バーをきれいに
+
+commit 40a821c07822f9b4a572571613492ccadf5416e7
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Apr 19 10:11:03 2017 +0900
+
+    ToolBar→ConditionBar
+
+commit 23d79e48cdc5ca32cbaafb06d93f1384cca33a01
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Apr 19 09:26:35 2017 +0900
+
+    曜日チェックボックス修正
+
+commit dee7bede0811a40f7d82fbcc63b81ade847953c1
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Tue Apr 18 18:22:10 2017 +0900
+
+    条件バーをトグル表示に。会場コンボリストが絞り込まれるように変更。
+
+commit b7ecc6f2d06d21d77d68fa3bd0d13dc2fd866825
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Apr 12 17:11:33 2017 +0900
+
+    scrape_kproテスト実装
+
+commit 95fc5be1042d7242649f8bcadb6f36105b114a1f
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Apr 12 14:04:58 2017 +0900
+
+    開始日時絞込み。eslintでno-undef等有効に。mocha追加。
+
+commit 10fd22707ee5ca75690fbfc546912e95311d95f2
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Tue Apr 4 19:39:53 2017 +0900
+
+    整理
+
+commit 690cb1e6aa01a00febdce2fbacda2a7aa94ed361
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Tue Apr 4 18:37:15 2017 +0900
+
+    ごみ削除
+
+commit a865be980cff13fa3d1557c4d2c0b5e1b1a59414
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Tue Apr 4 18:37:06 2017 +0900
+
+    URL取得もPromiseにラップ
+
+commit 534cb64e994f721fc73b2fcac82f1ce6a1a3ab0b
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Tue Apr 4 18:08:28 2017 +0900
+
+    主催フィルタ追加、DB更新修正
+
+commit 303dce0a08c58fce9f6d094c9e28187171e4ad37
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Tue Apr 4 13:10:16 2017 +0900
+
+    toolbarをcond、ToolBarをConditionに
+
+commit b3db2127e8b2cb3f222647f204dd79efc5b3f9e8
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Tue Apr 4 11:04:35 2017 +0900
+
+    動く
+
+commit 299afb872a76bbd20460f617892c7d96ba4719da
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Tue Apr 4 02:27:27 2017 +0900
+
+    kpro、promise使ってmongo更新成功。
+
+commit 8c40bb5fc844bb8a0bdab44412fc344a7eb78095
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Mar 15 19:06:08 2017 +0900
+
+    日時ソート追加
+
+commit f3322a1a25e8eda2c334952c45ba89d7f1ff630c
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Sat Mar 4 16:14:53 2017 +0900
+
+    出演者絞込み追加
+
+commit a007112423aa6b456bf83fca0fc4430016abd305
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Sat Feb 25 12:59:38 2017 +0900
+
+    会場フィルタ実装
+
+commit 9e05e325594cbf7d46414ffca417d2ee2e734f2f
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Feb 22 22:55:30 2017 +0900
+
+    動かない
+
+commit ca2c1d60892749f354aa7d63658dbd31ea6dc134
+Merge: ad4db11 f9861d5
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Feb 22 19:29:00 2017 +0900
+
+    Merge commit 'f9861d55e7103ae26f44fe5a7bc9a57badbb9745' into work
+
+commit ad4db116d82702357ed28403a1343bf048b3c19c
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Feb 22 19:27:43 2017 +0900
+
+    eslintのエラー消し
+
+commit f9861d55e7103ae26f44fe5a7bc9a57badbb9745
+Author: yutaka <yutaka.ayamura@example.com>
+Date:   Wed Feb 22 08:13:53 2017 +0900
+
+    work
+
+commit 849835ffd96c69d17cc36d58ed2eca39157ff73f
+Author: yutaka <yutaka.ayamura@example.com>
+Date:   Sun Feb 19 14:06:10 2017 +0900
+
+    ToolBarをコンポーネント化
+
+commit e6209aca839af177ecdd93b97ce7258bb4c421d9
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Sun Feb 19 00:08:40 2017 +0900
+
+    work
+
+commit 868778d91743a745c82a49b8764d7d72f4400e98
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Thu Feb 16 23:08:33 2017 +0900
+
+    work
+
+commit 422c9c6e300c74511f4831cbbdb060988b35fec8
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Feb 15 23:41:43 2017 +0900
+
+    動く
+
+commit ecc24b591e109bdbbd37f1b9a82d815a92d56132
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Sat Feb 4 13:03:15 2017 +0900
+
+    work
+
+commit 0233b279b9751a9d628fb6fb840395a2e6f85edb
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Fri Jan 20 16:40:25 2017 +0900
+
+    Task -> Live2
+
+commit d569c6e7265e4e26d6013b7045ed2f4522832195
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Fri Jan 20 16:40:17 2017 +0900
+
+    Task -> Live
+
+commit b8622171bf38ad56c9f67f03ecc67e119dfa5260
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Jan 18 18:59:41 2017 +0900
+
+    いったんコミット。リファクタリング前。
+
+commit 4c0666c2618c27591d9d269399c8d25afe0252e0
+Author: yayamura <yutaka.ayamura@example.com>
+Date:   Wed Nov 2 21:00:47 2016 +0900
+
+    いったんコミット
+
+commit 70b1e593831dd6f1116bba8a0eb687f87d300cbc
+Author: yayamura <yutaka.ayamura@example.com>
+Date:   Wed Nov 2 15:46:21 2016 +0900
+
+    first commit

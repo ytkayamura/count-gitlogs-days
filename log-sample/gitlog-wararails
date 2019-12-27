@@ -1,0 +1,47 @@
+commit 389e3f46dc563746258419f3a94e416017e79da3
+Author: yayamura <yutaka.ayamura@example.com>
+Date:   Tue Oct 25 19:22:38 2016 +0900
+
+    Live変更前
+
+commit d8ac8d9e831dacacb8f65d03afd3352a56d4f8a2
+Author: yayamura <yutaka.ayamura@example.com>
+Date:   Sun Oct 23 17:56:43 2016 +0900
+
+    UandCとメモ追加
+
+commit 8bb258b9fc316bd5f158ddaf3b71a1367ab661b9
+Author: yayamura <yutaka.ayamura@example.com>
+Date:   Fri Oct 14 16:16:30 2016 +0900
+
+    よしもとライブ情報取得対応
+
+commit 3849de30845268897c397949588afcac1399e989
+Author: yayamura <yutaka.ayamura@example.com>
+Date:   Wed Oct 12 03:07:33 2016 +0900
+
+    Combiにノンプロフラグ追加
+
+commit 08928a05e590f7ef9b1f775aa2e8e69ee1763d3f
+Author: yayamura <yutaka.ayamura@example.com>
+Date:   Wed Oct 12 02:44:07 2016 +0900
+
+    a
+
+commit 175bcf28936ca99e4b3ed7a30a1c7cc9b3c4855b
+Author: yayamura <yutaka.ayamura@example.com>
+Date:   Tue Oct 11 17:41:19 2016 +0900
+
+    コンビ情報一括更新実装
+
+commit 6de2685c4c1355574fc63ed640f5d544d4175a2a
+Author: yayamura <yutaka.ayamura@example.com>
+Date:   Mon Oct 10 15:45:41 2016 +0900
+
+    sql予約後回避。lives.cast->loves.fullcast
+
+commit 4b416cc774ee80a3b1a276ba9cd3427c959eab20
+Author: yayamura <yutaka.ayamura@example.com>
+Date:   Mon Oct 10 06:07:12 2016 +0900
+
+    いったんコミット

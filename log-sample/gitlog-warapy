@@ -1,0 +1,65 @@
+commit 07d7972423a6ce46a2d166889a24d4abc43c53c9
+Author: waralights2 <waralights2@example.com>
+Date:   Sun Dec 1 02:29:54 2019 +0900
+
+    出演者からの除外設定修正
+
+commit b43536fb324570087a07198a6e6fba8ae438f3bb
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Fri Nov 29 10:41:30 2019 +0900
+
+    エラーメッセージをエラー出力
+
+commit 68a60cf2e1fe8ee3f7ba1f692196889433a876cb
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Tue Sep 24 10:21:18 2019 +0900
+
+    保存先をmongoに戻す。
+
+commit 2e4bfe116624c42942d9328b3f3eeaaa10ba487a
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Tue Sep 24 10:18:09 2019 +0900
+
+    collectionパスにバージョンを追加
+
+commit 2d111f5aa1f14934a132695d95c1279d3dfb8f9c
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Thu Sep 12 10:29:08 2019 +0900
+
+    pymongo削除
+
+commit a67453f6983fd7a6da3cca4dc2969077409faec7
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Thu Sep 12 10:10:11 2019 +0900
+
+    データベースをFirestoreに。
+
+commit 85c68b94ef331cce0c4efece20fb5dd861fb1b7a
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Wed Sep 11 19:13:52 2019 +0900
+
+    mongo版。Firebase版への改修前コミット。
+
+commit 79cb83355dc82ef6dbe7751b786bc1e0126d6f27
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Mon Jul 23 12:24:45 2018 +0900
+
+    タイムゾーン対応
+
+commit a24903a025f8c5e69f13499b303de99b0c3e2585
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Fri Jul 20 15:49:52 2018 +0900
+
+    定期実行を6時間おきに変更
+
+commit eaf97a9be68f6b4459b363025ed568128e8cdce2
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Fri Jul 20 15:46:07 2018 +0900
+
+    update.
+
+commit 4a46a8a90c047dda2f0124ee25ce5d42515da321
+Author: 綾村豊 <yutaka.ayamura@example.com>
+Date:   Fri Jul 20 15:38:02 2018 +0900
+
+    craete.
